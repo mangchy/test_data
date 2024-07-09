@@ -21,7 +21,7 @@
         "Unit": ""
     },
     {
-        "Category": "Information",
+        "Category": "",
         "Parameter Name": "SW Version",
         "Function": "4",
         "Address": "1004",
@@ -42,7 +42,7 @@
         "Unit": ""
     },
     {
-        "Category": "Information",
+        "Category": "",
         "Parameter Name": "Model",
         "Function": "4",
         "Address": "1005",
